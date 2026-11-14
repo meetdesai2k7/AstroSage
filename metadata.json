@@ -1,0 +1,6 @@
+{
+  "name": "ASTROSAGE",
+  "description": "Offline-First Astronaut Health Intelligence & Protocol Copilot for mission health monitoring, explainable baselines, radiation context, and local evidence-grounded handover reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
